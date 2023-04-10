@@ -41,10 +41,10 @@ demonstrates the importance of responsive design through the use of media
 queries. The website has been optimized to provide an optimal user experience on
 various devices, including desktops, tablets, and smartphones.
 
-Loruki relies heavily on CSS grid and flexbox for layout and positioning of
-various elements on the page. Furthermore, Loruki also includes a well-designed
-form that allows users to sign up for the service. The form is styled using CSS,
-with careful attention paid to its layout, color scheme, and user experience.
+Loruki relies heavily on CSS grid and flex for layout and positioning of various
+elements on the page. Furthermore, Loruki also includes a well-designed form
+that allows users to sign up for the service. The form is styled using CSS, with
+careful attention paid to its layout, color scheme, and user experience.
 
 ## Code Examples
 
@@ -79,7 +79,7 @@ ul {
 
 ## Source
 
-Project was originally writtenby bradtraversy and the source code can be find
+Project was originally written by bradtraversy and the source code can be find
 here: [source code on GitHub](https://github.com/bradtraversy/loruki-website).
 The website can be visited here:
 [Loruki](https://michaelfrieze-loruki.netlify.app/index.html)
