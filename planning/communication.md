@@ -34,11 +34,10 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Herbert: _4h_; 3h for indivisual task and 1h for collabration
+- Amanuel: _4h_; 3h for indivisual task and 1h for collabration
+- Sachin:  _4h_; 3h for indivisual task and 1h for collabration
+- Nursen:  _4h_; 3h for indivisual task and 1h for collabration
 
 ## Asking for Help
 
