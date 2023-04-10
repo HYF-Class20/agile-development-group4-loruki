@@ -2,6 +2,7 @@
 
 Some boundaries around our project.
 
+
 ## External
 
 <!--
@@ -11,6 +12,10 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 
+- the deadline is for friday 
+- technologies- HTML, CSS
+- everything in our projrct is already coded all we have to do is looking the youtube tutorial and reverse enginering 
+
 ## Internal: Involuntary
 
 <!--
@@ -18,7 +23,8 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
-
+- the deadline to complate planning was to be complated by tuesday
+- some people work from tuesday to friday  
 ## Internal: Voluntary
 
 <!--
@@ -28,3 +34,4 @@ Some boundaries around our project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
+- some of members need to study HTML AND CSS 
