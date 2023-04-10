@@ -1,20 +1,15 @@
 # Name of project
 
-> A longer description
+Group's 4 project that attempts to reverse engineer the Loruki website.
 
 ## Table of contents
 
 - [Name of project](#name-of-project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
-  - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
+  - [Source](#source)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -22,55 +17,72 @@
 
 ## General info
 
-> A short description
+Loruki is a fictional cloud hosting website that was created by a developer to
+serve as a tutorial for web development students. The website has a simple, yet
+sleek design that utilizes a color scheme of blue, white, and black.
 
-## Screenshots
+The website includes only three pages: a homepage, a features page, and a
+documentation page. The homepage shows the popularity of the website as well as
+brief overview of the most important features. The navigation menu is located at
+the top right corner of the page for easy access.
 
-![Example screenshot](./planning/screenshot.jpg)
+The features page provides details on the various features offered by Loruki
+each of the details being 'lorem ipsum', while the documentation page serves as
+a guide for users on how to use this fake service.
 
 ## Technologies
 
-- Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+- **HTML**
+- **CSS**
 
-## Setup
+Loruki was built using only HTML and CSS, making it an excellent example of how
+to design a website using these foundational web development languages. It
+demonstrates the importance of responsive design through the use of media
+queries. The website has been optimized to provide an optimal user experience on
+various devices, including desktops, tablets, and smartphones.
 
-- `npm run start`
+Loruki relies heavily on CSS grid and flexbox for layout and positioning of
+various elements on the page. Furthermore, Loruki also includes a well-designed
+form that allows users to sign up for the service. The form is styled using CSS,
+with careful attention paid to its layout, color scheme, and user experience.
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+:root {
+  --primary-color: #047aed;
+  --secondary-color: #1c3fa8;
+  --dark-color: #002240;
+  --light-color: #f4f4f4;
+  --success-color: #5cb85c;
+  --error-color: #d9534f;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+}
+
 ```
 
-## Features
+## Source
 
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
-## Status
-
-Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
-
-## Contact
-
-By [Name]
+Project was originally writtenby bradtraversy and the source code can be find
+here: [source code on GitHub](https://github.com/bradtraversy/loruki-website).
+The website can be visited here:
+[Loruki](https://michaelfrieze-loruki.netlify.app/index.html)
 
 ## Instructions for use
 
