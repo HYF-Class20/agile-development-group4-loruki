@@ -30,15 +30,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| All | 11 - 12 | 20 - 21 |  20 - 21 | 20 - 21  | 20 - 21 |   | |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Herbert: _4h_; 3h for indivisual task and 1h for collabration
+- Amanuel: _4h_; 3h for indivisual task and 1h for collabration
+- Sachin:  _4h_; 3h for indivisual task and 1h for collabration
+- Nursen:  _4h_; 3h for indivisual task and 1h for collabration
 
 ## Asking for Help
 
