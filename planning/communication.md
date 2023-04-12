@@ -28,16 +28,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| All | 11 - 12 | 20 - 21 |  20 - 21 | 20 - 21  | 20 - 21 |   | |
+| Day | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday |
+| --- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :----: |
+| All | 11 - 12 | 20 - 21 |  20 - 21  | 20 - 21  | 20 - 21 |          |        |
 
 ### How many hours everyone has per day
 
 - Herbert: _4h_; 3h for indivisual task and 1h for collabration
 - Amanuel: _4h_; 3h for indivisual task and 1h for collabration
-- Sachin:  _4h_; 3h for indivisual task and 1h for collabration
-- Nursen:  _4h_; 3h for indivisual task and 1h for collabration
+- Sachin: _4h_; 3h for indivisual task and 1h for collabration
+- Nursen: _4h_; 3h for indivisual task and 1h for collabration
 
 ## Asking for Help
 
