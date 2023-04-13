@@ -1,18 +1,7 @@
 # User Personas
 
-<!-- some introduction -->
-
----
-
-<!-- a persona -->
-
-## Their Role
-
-- **Bio**:
-- **Needs/Goals**:
-- **Frustrations**:
-- **Scenario 1**:
-
----
-
-<!-- more personas ... -->
+| Persona                        | Technical Expertise                         | Goals                                                                                                                                                                                                                                                  | Frustrations                                                                                                      |
+| ------------------------------ | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| Software Developer - age: 32   | Proficient in various programming languages | Wants a cloud hosting service that provides advanced features, flexibility, and control. Needs high-performance servers for running complex applications and databases. Also requires full root access and customizability for server management.      | Limited server access, slow performance, and limited customization options.                                       |
+| Small Business Owner - age: 45 | Familiar with basic website administration  | Wants a reliable and affordable cloud hosting service to host their business website. Needs a user-friendly platform with easy-to-use tools for website administration and management. Also requires good customer support to handle technical issues. | Technical complexity, high costs, and limited customer support.                                                   |
+| Student - age: 21              | Limited programming knowledge               | Wants a cloud hosting service . Needs an intuitive platform with a simple interface, easy-to-use tools, and step-by-step instructions. Also requires good documentation and support for beginners.                                                     | Technical complexity, lack of documentation, and very limited support for beginners in existing hosting websites. |
