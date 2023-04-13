@@ -1,10 +1,18 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+ALL About Loruki Wireframe
 
----
+## Homepage
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+![Homepage](https://github.com/HYF-Class20/agile-development-group4-loruki/blob/planning/design-md/planning/assets/home.jpg?raw=true)
+</br>
 
-![wireframe](./wireframe.svg)
+## Features
+
+![Features](https://github.com/HYF-Class20/agile-development-group4-loruki/blob/planning/design-md/planning/assets/features.jpg?raw=true)
+</br>
+
+## Docs
+
+![Docs](https://github.com/HYF-Class20/agile-development-group4-loruki/blob/planning/design-md/planning/assets/docs.jpg?raw=true)
+</br>
