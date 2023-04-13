@@ -1,5 +1,6 @@
 # User Personas
 
+
 | Persona                        | Technical Expertise                         | Goals                                                                                                                                                                                                                                                  | Frustrations                                                                                                      |
 | ------------------------------ | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | Software Developer - age: 32   | Proficient in various programming languages | Wants a cloud hosting service that provides advanced features, flexibility, and control. Needs high-performance servers for running complex applications and databases. Also requires full root access and customizability for server management.      | Limited server access, slow performance, and limited customization options.                                       |
